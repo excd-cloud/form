@@ -12,8 +12,8 @@ if (empty($_POST)) {
 	exit();
 }
 
-$mailTo = 'tomohisa.masaki@excd.cloud';
-$returnMail = 'tomohisa.masaki@excd.cloud';
+$mailTo = 'tomohisa.masaki.2016@gmail.com';
+$returnMail = 'tomohisa.masaki@gmail.com';
 
 $name = $_SESSION['name'];
 $mail = $_SESSION['mail'];
